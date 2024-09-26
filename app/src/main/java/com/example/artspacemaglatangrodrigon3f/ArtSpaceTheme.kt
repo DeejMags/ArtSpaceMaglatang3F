@@ -26,12 +26,11 @@ private val LightColorScheme = lightColorScheme(
     onBackground = Color.Black,
 )
 
-// Custom Typography (you can modify it based on your design)
-private val Typography = Typography() // Add your custom typography settings here if needed
+private val Typography = Typography()
 
 @Composable
 fun ArtSpaceMaglatangRodrigo3FTheme(
-    darkTheme: Boolean = false, // Logic to determine if dark theme is enabled can be added here
+    darkTheme: Boolean = false,
     content: @Composable () -> Unit
 ) {
     val colorScheme = if (darkTheme) {
