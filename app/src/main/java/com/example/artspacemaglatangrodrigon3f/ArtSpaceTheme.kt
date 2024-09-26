@@ -16,7 +16,6 @@ private val DarkColorScheme = darkColorScheme(
     onBackground = Color.White,
 )
 
-// Define your light color scheme
 private val LightColorScheme = lightColorScheme(
     primary = Color(0xFF6200EE),
     onPrimary = Color.White,
