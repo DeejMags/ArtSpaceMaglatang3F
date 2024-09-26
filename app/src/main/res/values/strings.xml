@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="first_image">Miles Morales</string>
+    <string name="second_image">Spider-Man Photography</string>
+    <string name="third_image">PlayStation Spider-Man</string>
+    <string name="fourth_image">The Amazing Spider-Man</string>
+    <string name="author">Author: John Doe</string>
+    <string name="year">2021</string>
+</resources>
